@@ -116,21 +116,21 @@
                     font-size: $fontsize_14;
                 }
                 .is-active {
-                    background-color: #a01300;
-                    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-                    background: -webkit-linear-gradient(top, #c01700, #a01300);
-                    background: -moz-linear-gradient(top, #c01700, #a01300);
-                    background: -ms-linear-gradient(top, #c01700, #a01300);
-                    background: -o-linear-gradient(top, #c01700, #a01300);
+                    background-color: #1d8db9;
+                    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1d8db9), to(#282a2c));
+                    background: -webkit-linear-gradient(top, #1d8cb8, #1d8db9);
+                    background: -moz-linear-gradient(top, #1d8cb8, #1d8db9);
+                    background: -ms-linear-gradient(top, #1d8cb8, #1d8db9);
+                    background: -o-linear-gradient(top, #1d8cb8, #1d8db9);
                 }
                 &.menu-item--active-trail {
                     > a {
-                        background-color: #a01300;
-                        background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-                        background: -webkit-linear-gradient(top, #c01700, #a01300);
-                        background: -moz-linear-gradient(top, #c01700, #a01300);
-                        background: -ms-linear-gradient(top, #c01700, #a01300);
-                        background: -o-linear-gradient(top, #c01700, #a01300);
+                        background-color: #1d8db9;
+                        background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1d8db9), to(#282a2c));
+                        background: -webkit-linear-gradient(top, #1d8cb8, #1d8db9);
+                        background: -moz-linear-gradient(top, #1d8cb8, #1d8db9);
+                        background: -ms-linear-gradient(top, #1d8cb8, #1d8db9);
+                        background: -o-linear-gradient(top, #1d8cb8, #1d8db9);
                     }
                 }
                 &:first-child {
@@ -145,12 +145,12 @@
                 &:hover,
                 &:focus {
                     > a {
-                        background-color: #a01300;
-                        background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a01300), to(#282a2c));
-                        background: -webkit-linear-gradient(top, #c01700, #a01300);
-                        background: -moz-linear-gradient(top, #c01700, #a01300);
-                        background: -ms-linear-gradient(top, #c01700, #a01300);
-                        background: -o-linear-gradient(top, #c01700, #a01300);
+                        background-color: #1d8db9;
+                        background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1d8db9), to(#282a2c));
+                        background: -webkit-linear-gradient(top, #1d8cb8, #1d8db9);
+                        background: -moz-linear-gradient(top, #1d8cb8, #1d8db9);
+                        background: -ms-linear-gradient(top, #1d8cb8, #1d8db9);
+                        background: -o-linear-gradient(top, #1d8cb8, #1d8db9);
                     }
                     ul.menu {
                         display: block;
@@ -184,7 +184,7 @@
                 top: 45px;
                 z-index: 100;
                 background: #272727;
-                border: 5px solid #a01300;
+                border: 5px solid #1d8db9;
                 width: 220px;
                 display: none;
                 li {
@@ -392,7 +392,7 @@
                         width: 7px;
                         height: 7px;
                         border-radius: 50%;
-                        background: #c01700;
+                        background: #1d8cb8;
                         position: absolute;
                         top: 3px;
                         left: 3px;
@@ -470,7 +470,7 @@
             &:focus {
                 .views-field-title {
                     a {
-                        color: #c01700;
+                        color: #1d8cb8;
                     }
                 }
             }
@@ -537,7 +537,7 @@
                 &:focus {
                     h2 {
                         a {
-                            color: #c01700;
+                            color: #1d8cb8;
                         }
                     }
                 }
@@ -789,7 +789,7 @@
             &:focus {
                 .views-field-title {
                     a {
-                        color: #c01700;
+                        color: #1d8cb8;
                     }
                 }
             }
